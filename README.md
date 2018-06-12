@@ -1,5 +1,6 @@
 # Concept-ify X. X Edition.
 Welcome Concept-ify X! X Edition! Needs to be a little bit fixed...
+
 Build instructions:
 0. Download or clone the repo.
 1. Remove LICENSE and README.MD
@@ -8,6 +9,7 @@ Build instructions:
 
 Concept-ify X. Икс Эдишион.
 Нужно пофиксить маленько скрипты.
+
 Инструкции по сборке проекта:
 0. Скачайте/клонируйте репозиторий.
 1. Удалите LICENSE и README.MD
