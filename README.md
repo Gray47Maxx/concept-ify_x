@@ -4,8 +4,8 @@ Welcome Concept-ify X! X Edition! Needs to be a little bit fixed...
 Build instructions:
 
 0. Download or clone the repo.
-1. Remove LICENSE and README.MD
-2. Add everything else to .zip
+1. Go to conceptify directory
+2. Add it to a .zip file or use make_zip.sh script
 3. Flash through any custom recovery.
 
 Concept-ify X. Икс Эдишион.
@@ -17,3 +17,4 @@ Concept-ify X. Икс Эдишион.
 1. Удалите LICENSE и README.MD
 2. Всё остальное киньте в .zip-архив.
 3. Прошейте через любое кастомное recovery.
+а иди нахуй
