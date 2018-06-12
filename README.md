@@ -5,7 +5,7 @@ Build instructions:
 
 0. Download or clone the repo.
 1. Go to conceptify directory
-2. Add it to a .zip file or use make_zip.sh script
+2. Add it's content to a .zip file or use make_zip.sh script
 3. Flash through any custom recovery.
 
 Concept-ify X. Икс Эдишион.
