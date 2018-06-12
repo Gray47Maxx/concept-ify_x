@@ -1,0 +1,27 @@
+BACKUP=y
+
+# Misc
+ro.config.nocheckin=1
+persist.service.adb.enable=1
+persist.adb.notify=0
+persist.sys.usb.config=mtp,adb
+ro.build.selinux=1
+bsc_hide_usb_notification=1
+net.tethering.noprovisioning=true
+ro.hdmi.enable=true
+ro.hdmi.mirror.enable=true
+persist.debug.wfd.enable=1
+ro.telephony.call_ring.delay=0
+ring.delay=0
+# Theme
+ro.opa.eligible_device=true
+ro.com.google.ima.theme=5
+ro.boot.vendor.overlay.theme=com.google.android.theme.pixel
+# Net Speed
+net.tcp.buffersize.default=4096,87380,256960,4096, 16384,256960
+net.tcp.buffersize.wifi=4096,87380,256960,4096,163 84,256960
+net.tcp.buffersize.umts=4096,87380,256960,4096,163 84,256960
+net.tcp.buffersize.gprs=4096,87380,256960,4096,163 84,256960
+net.tcp.buffersize.edge=4096,87380,256960,4096,163 84,256960
+net.dns1=8.8.8.8
+net.dns2=8.8.4.4
