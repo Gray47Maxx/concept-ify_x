@@ -35,8 +35,8 @@ rm -rf /system/app/Messages
 rm -rf /data/user/0/Messages
 
 #Sony Home
-rm -rf /system/priv-app/home-sonyMobile-release
-rm -rf /system/priv-app/home-sonyEricsson-release
+#rm -rf /system/priv-app/home-sonyMobile-release
+#rm -rf /system/priv-app/home-sonyEricsson-release
 #rm -rf /data/user/0/home-sonyMobile-release
 #rm -rf /data/user/0/home-sonyEricsson-release
 
@@ -216,22 +216,22 @@ rm -rf /data/user/0/com.sonymobile.exchange
 
 #Facebook
 rm -rf /system/app/com.facebook.katana
-#rm -rf /data/user/0/com.facebook.katana
+rm -rf /data/user/0/com.facebook.katana
 
 #Facebook App Installer
 rm -rf /system/app/com.facebook.system
 rm -rf /system/priv-app/com.facebook.system
-#rm -rf /data/user/0/com.facebook.system
+rm -rf /data/user/0/com.facebook.system
 
 #Facebook App Manager
 rm -rf /system/app/com.facebook.appmanager
-#rm -rf /data/user/0/com.facebook.appmanager
+rm -rf /data/user/0/com.facebook.appmanager
 
 #Facebook Services
 rm -rf /system/priv-app/com.facebook.services
-#rm -rf /data/user/0/com.facebook.services
-#rm -rf /data/app/com.facebook*
-#rm -rf /data/user/0/com.facebook*
+rm -rf /data/user/0/com.facebook.services
+rm -rf /data/app/com.facebook*
+rm -rf /data/user/0/com.facebook*
 
 #Gmail
 rm -rf /system/app/Gmail2
@@ -258,8 +258,8 @@ rm -rf /system/app/GoogleLyricsPlugin
 rm -rf /data/user/0/com.sonymobile.music.googlelyricsplugin
 
 #Intelligent Observer
-rm -rf /system/app/IntelligentObserver
-rm -rf /data/user/0/com.sonymobile.intelligent.observer
+#rm -rf /system/app/IntelligentObserver
+#rm -rf /data/user/0/com.sonymobile.intelligent.observer
 
 #International keyboard layouts
 #rm -rf /system/app/externalkeyboardsinternational-release
@@ -270,8 +270,8 @@ rm -rf /system/priv-app/somc-get-to-know-it-release
 rm -rf /data/user/0/com.sonymobile.gettoknowit
 
 #Japanese keyboard layout
-rm -rf /system/app/ExternalKeyboardJP
-rm -rf /data/user/0/com.sonymobile.android.externalkeyboardjp
+#rm -rf /system/app/ExternalKeyboardJP
+#rm -rf /data/user/0/com.sonymobile.android.externalkeyboardjp
 
 #Lifelog
 rm -rf /system/app/Lifelog-googlePlayLiveRelease-4.0.A.0.14-8388622
@@ -283,8 +283,8 @@ rm -rf /system/app/com.sonyericsson.xhs
 rm -rf /data/user/0/com.sonyericsson.xhs
 
 #Sony Movie Creator
-rm -rf /system/app/SomcMovieCreatorRmm-release
-rm -rf /data/user/0/com.sonymobile.moviecreator.rmm
+#rm -rf /system/app/SomcMovieCreatorRmm-release
+#rm -rf /data/user/0/com.sonymobile.moviecreator.rmm
 
 #Sony News Suite
 rm -rf /system/app/newssuite
@@ -312,8 +312,8 @@ rm -rf /system/app/EditorsSheets
 rm -rf /data/user/0/com.google.android.apps.docs.editors.sheets
 
 #Sony Sketch
-rm -rf /system/app/SomcSketch-live
-rm -rf /data/user/0/com.sonymobile.sketch
+#rm -rf /system/app/SomcSketch-live
+#rm -rf /data/user/0/com.sonymobile.sketch
 
 #Sony Sound Photo
 rm -rf /system/priv-app/SoundPhotoCamera-xxhdpi-release
