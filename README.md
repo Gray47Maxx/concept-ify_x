@@ -15,4 +15,11 @@
 1. Перейдите в папку "conceptify".
 2. Добавьте её содержимое в .zip-архив или воспользуйтесь скриптом.
 3. Прошейте через любое кастомное recovery.
+------------------------------------------------------------------
+### [polski] 🇵🇱
+##### Instrukcje:
 
+0. Sklonuj lub pobierz zawartość repozytorium.
+1. Przejdź do folderu "conceptify"
+2. Dodaj jego zawartość do pliku .zip lub użyj skryptu make_zip.sh
+3. Sflashuj używając ulubionego custom recovery.
