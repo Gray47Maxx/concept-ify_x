@@ -1,0 +1,4 @@
+Features:
+1. Cleaned up everything, like most of the Google and Sony apps.
+2. Some new Pixel features (IDK whether it'll work or not).
+3. Replacing Sony apps to their AOSP alternatives.
