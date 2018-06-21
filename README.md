@@ -1,4 +1,4 @@
-# Concept-ify X. X Edition.
+# Concept-ify X. 
 
 ### [English] :gb:
 ##### Build instructions:
