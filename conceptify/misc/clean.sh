@@ -50,6 +50,10 @@ rm -rf /data/user/0/Dialer2
 rm -rf /system/priv-app/Contacts
 rm -rf /data/user/0/Contacts
 
+#Sony Weather
+rm -rf /system/app/weather-release 
+rm -rf /data/user/0/weather-release
+
 #Email
 rm -rf /system/priv-app/SemcEmail
 rm -rf /data/user/0/SemcEmail
