@@ -1,7 +1,7 @@
 #!/bin/bash
 # Last Updated: 04.01.2018
 #=========================================================#
-#                 FUCK THIS SHIT IN...                    # 
+#                 Cleaner script for X...                    # 
 #       script by korom42@XDA, modified by C-Team         #
 #=========================================================#
 buildp="/system/build.prop"
@@ -93,7 +93,7 @@ rm -rf /data/user/0/newssuite
 rm -rf /system/app/com.spotify.music
 rm -rf /data/user/0/com.spotify.music
 
-# Phone monitoring anad data sending stuff
+# Phone monitoring and data sending stuff
 rm -rf /system/app/device-monitor
 rm -rf /data/user/0/device-monitor
 
